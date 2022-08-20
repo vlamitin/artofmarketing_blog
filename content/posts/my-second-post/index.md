@@ -3,7 +3,7 @@ title: "My Second Post"
 description: 'Page bundles are an optional way to organize content within Hugo.'
 summary: "Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page's front matter." # For the post in lists.
 date: 2022-08-20T14:10:18+04:00
-draft: false
+draft: true
 #aliases:
 #  - hugo-page-bundles
 #author: 'Hugo Authors'

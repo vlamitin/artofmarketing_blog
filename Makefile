@@ -6,7 +6,7 @@ deploy:
 .SILENT: push
 .PHONY: push
 push:
-	hugo -D && git add . && git commit -m "update" && git push origin master
+	hugo && git add . && git commit -m "update" && git push origin master
 
 .SILENT: dev
 .PHONY: dev
@@ -17,3 +17,7 @@ dev:
 .PHONY: pull
 pull:
 	git fetch && git rebase origin/master
+
+.SILENT: publish
+.PHONY: publish
+publish: push deploy

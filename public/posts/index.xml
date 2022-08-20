@@ -23,37 +23,5 @@
       </description>
     </item>
     
-    <item>
-      <title>My Second Post</title>
-      <link>https://artofmarketing.blog/posts/my-second-post/</link>
-      <pubDate>Sat, 20 Aug 2022 14:10:18 +0400</pubDate>
-      
-      <guid>https://artofmarketing.blog/posts/my-second-post/</guid>
-      <description>
-        
-          
-            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://artofmarketing.blog/posts/my-first-post/</link>
-      <pubDate>Sat, 20 Aug 2022 13:42:18 +0400</pubDate>
-      
-      <guid>https://artofmarketing.blog/posts/my-first-post/</guid>
-      <description>
-        
-          
-            4Bla!
-          
-          
-        
-      </description>
-    </item>
-    
   </channel>
 </rss>
