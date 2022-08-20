@@ -1,7 +1,7 @@
 .SILENT: deploy
 .PHONY: deploy
 deploy:
-	ssh london "cd artofmarketing_blog && git fetch && git rebase origin/master && rm -r /var/www/html/* && cp -r public/* /var/www/html/"
+	ssh london "cd artofmarketing_blog && git fetch && git rebase origin/master && rm -r /var/www/html/* && cp -r public/* /var/www/html/ && echo 'deployed'!"
 
 .SILENT: commitpush
 .PHONY: commitpush
