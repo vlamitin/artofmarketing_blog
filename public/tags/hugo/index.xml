@@ -13,14 +13,7 @@
       <pubDate>Sat, 20 Aug 2022 14:10:18 +0400</pubDate>
       
       <guid>https://artofmarketing.blog/posts/my-second-post/</guid>
-      <description>
-        
-          
-            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
-          
-          
-        
-      </description>
+      <description>Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with &lt;code&gt;usePageBundles&lt;/code&gt; in your site configuration &amp;mdash; or in a page&amp;rsquo;s front matter.</description>
     </item>
     
   </channel>
