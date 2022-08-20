@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artofmarketing.blog/</loc>
-    <lastmod>2022-08-20T14:10:18+04:00</lastmod>
+    <lastmod>2022-08-20T17:46:18+04:00</lastmod>
+  </url><url>
+    <loc>https://artofmarketing.blog/posts/</loc>
+    <lastmod>2022-08-20T17:46:18+04:00</lastmod>
+  </url><url>
+    <loc>https://artofmarketing.blog/posts/test-post/</loc>
+    <lastmod>2022-08-20T17:46:18+04:00</lastmod>
   </url><url>
     <loc>https://artofmarketing.blog/tags/hugo/</loc>
     <lastmod>2022-08-20T14:10:18+04:00</lastmod>
   </url><url>
     <loc>https://artofmarketing.blog/posts/my-second-post/</loc>
-    <lastmod>2022-08-20T14:10:18+04:00</lastmod>
-  </url><url>
-    <loc>https://artofmarketing.blog/posts/</loc>
     <lastmod>2022-08-20T14:10:18+04:00</lastmod>
   </url><url>
     <loc>https://artofmarketing.blog/tags/</loc>
