@@ -1,0 +1,4 @@
+baseURL = 'https://artofmarketing.blog'
+languageCode = 'en-us'
+title = 'Art of Margeting blog'
+theme = "clarity"
