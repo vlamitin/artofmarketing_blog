@@ -1,7 +1,7 @@
 ---
 title: "README"
 date: 2022-08-20T13:42:18+04:00
-draft: true
+draft: false
 ---
 
 # Art of marketing blog

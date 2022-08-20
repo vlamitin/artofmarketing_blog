@@ -6,12 +6,12 @@ deploy:
 .SILENT: push
 .PHONY: push
 push:
-	hugo && git add . && git commit -m "update" && git push origin master
+	yes | cp README.md content/readme/index.md && hugo && git add . && git commit -m "update" && git push origin master
 
 .SILENT: dev
 .PHONY: dev
 dev:
-	hugo server -D
+	hugo server
 
 .SILENT: pull
 .PHONY: pull
