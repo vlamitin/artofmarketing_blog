@@ -14,7 +14,7 @@ title = "Art of Marketing blog"
 # canonifyurls = true
 paginate = 10
 theme = "clarity"
-ignoreFiles = ['^\..*$']
+ignoreFiles = ['\.Archive']
 disqusShortname = ""
 
 #DefaultContentLanguage = "en"

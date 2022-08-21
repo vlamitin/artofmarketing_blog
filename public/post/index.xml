@@ -15,7 +15,7 @@
       <description>
         
           
-            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
           
           
         

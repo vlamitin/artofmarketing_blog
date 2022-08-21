@@ -1,11 +1,11 @@
 ---
 title: Marketing strategy for SAAS in 2022
 date: 2022-08-21 13:42:18
-summary: Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page
+summary: Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page's front matter.
 tags:
- - SAAS
- - ETL
- - Strategy
+  - SAAS
+  - ETL
+  - Strategy
 toc: true
 ---
 

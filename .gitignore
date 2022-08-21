@@ -4,3 +4,4 @@
 .db/
 .markeditor/
 .Archive
+.DS_Store
