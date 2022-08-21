@@ -1,6 +1,6 @@
 ---
 title: "README"
-date: 2022-08-20T13:42:18+04:00
+date: 2022-08-20 13:42:18
 draft: false
 ---
 

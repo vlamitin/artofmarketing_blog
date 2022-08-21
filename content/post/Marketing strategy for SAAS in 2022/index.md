@@ -1,15 +1,13 @@
 ---
 title: Marketing strategy for SAAS in 2022
-date: 2022-08-21T13:42:18+04:00
+date: 2022-08-21 13:42:18
 summary: Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page
 tags:
  - SAAS
  - ETL
  - Strategy
+toc: true
 ---
-Contents
-ICP
-sdf
 
 ## ICP (ideal customer profile)
 

@@ -1,6 +1,28 @@
-baseURL = 'https://artofmarketing.blog'
-languageCode = 'en-us'
-title = 'Art of Margeting blog'
-theme = "clarity"
-ignoreFiles = ['\.archive/*$', '\.Archive/*$']
+#baseURL = 'https://artofmarketing.blog'
+#languageCode = 'en-us'
+#title = 'Art of Marketing blog'
+#theme = "clarity"
+#copyright = '2022 Art of Marketing'
+#logo = 'logo.png'
 
+# set `baseurl` to your root domain
+# if you set it to "/" share icons won't work properly on production
+baseurl = "https://artofmarketing.blog/"  # Include trailing slash
+title = "Art of Marketing blog"
+# title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
+# copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+# canonifyurls = true
+paginate = 10
+theme = "clarity"
+ignoreFiles = ['^\..*$']
+disqusShortname = ""
+
+#DefaultContentLanguage = "en"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

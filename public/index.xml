@@ -1,54 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art of Margeting blog</title>
+    <title>Art of Marketing blog</title>
     <link>https://artofmarketing.blog/</link>
-    <description>Recent content on Art of Margeting blog</description>
+    <description>Recent content on Art of Marketing blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 21 Aug 2022 13:42:18 +0400</lastBuildDate><atom:link href="https://artofmarketing.blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 13:42:18 +0000</lastBuildDate><atom:link href="https://artofmarketing.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing strategy for SAAS in 2022</title>
       <link>https://artofmarketing.blog/post/marketing-strategy-for-saas-in-2022/</link>
-      <pubDate>Sun, 21 Aug 2022 13:42:18 +0400</pubDate>
+      <pubDate>Sun, 21 Aug 2022 13:42:18 +0000</pubDate>
       
       <guid>https://artofmarketing.blog/post/marketing-strategy-for-saas-in-2022/</guid>
       <description>
         
           
             Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>https://artofmarketing.blog/post/test-post/</link>
-      <pubDate>Sat, 20 Aug 2022 17:46:18 +0400</pubDate>
-      
-      <guid>https://artofmarketing.blog/post/test-post/</guid>
-      <description>
-        
-          
-            Test!
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>My Test Post</title>
-      <link>https://artofmarketing.blog/post/test2/</link>
-      <pubDate>Sat, 20 Aug 2022 13:42:18 +0400</pubDate>
-      
-      <guid>https://artofmarketing.blog/post/test2/</guid>
-      <description>
-        
-          
-            Ghbdt
           
           
         
