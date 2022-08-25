@@ -11,8 +11,6 @@ featureImageAlt: 'Description of image' # Alternative text for featured image.
 featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: 'sunset.jpg' # Image in lists of posts.
 shareImage: 'sunset.jpg' # For SEO and social media snippets.
-tags:
-  - Formatting 
 ---
 ## Play with formatting
 [Link example](https://gohugo.io/content-management/page-bundles/) bla bla.
