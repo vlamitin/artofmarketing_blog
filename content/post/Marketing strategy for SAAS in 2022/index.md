@@ -1,5 +1,5 @@
 ---
-title: Marketing strategy for B2B SAAS (ETL) in 2022
+title: Marketing strategy for B2B SaaS ETL in 2022
 date: 2022-08-21 13:42:18
 summary: Don’t try to kiss your clients on the First Date (c) or how to inspire customer confidence in selling complex B2B products and the finish acquire customers from a specific segment ETL product.
 tags:
