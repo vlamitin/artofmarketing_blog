@@ -12,7 +12,7 @@ introDescription = "Technologist, perpetual student, teacher, continual incremen
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = "XXXXXXXXXX"
+ga_analytics = "GTM-MMH26P2"
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
@@ -108,7 +108,7 @@ languageMenuName = "🌐"
 # utterancesIssueTerm = "pathname" # Default: pathname
 
 # Maximum number of recent posts. (default: 8)
-# numberOfRecentPosts = 8
+numberOfRecentPosts = 8
 
 # Maximum number of featured posts. (default: 8)
 # numberOfFeaturedPosts = 8
@@ -133,17 +133,17 @@ since = 2022
 
 # website author
 [author]
-name = "Daria Antipenkova"
+  name = "Daria Antipenkova"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
-#[plausible_analytics]
-#enable = false # to enable plausible analytics set to true.
+[plausible_analytics]
+  enable = false # to enable plausible analytics set to true.
 #websiteDomain = "example.com" # domain name of your website, most cases same as your base url
 ## plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
 ## scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
 #
-#[matomo_analytics]
-#enable = false # To enable matomo analytics change to `true`.
+[matomo_analytics]
+  enable = false # To enable matomo analytics change to `true`.
 #websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
 #matomoDomain = "matomo.example.com" # Set to Matomo domain
 #matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
