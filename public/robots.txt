@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /example
+Disallow: /readme
+
+Sitemap: https://artofmarketing.blog/sitemap.xml
