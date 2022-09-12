@@ -33,11 +33,11 @@ In each group, countries are filtered in descending order of GDP (nominal):
 |South Korea|Thailand|Bangladesh|
 |Spain|Sweden|Egypt|
 |Australia|Nigeria|Pakistan|
-|Switzerland	|UNITED ARAB EMIRATES|Algeria
+|Switzerland	|United Arab Emirates|Algeria
 |Belgium|Ireland|Morocco|
 |Austria|Israel|Bolivia|
 |Argentina|Hong Kong|Nepal|
-|Norway	|SOUTH AFRICA|Afghanistan|
+|Norway	|South Africa|Afghanistan|
 |Philippines|Denmark||	
 |Singapore|Colombia||
 |Colombia|Portugal||
