@@ -18,6 +18,7 @@ My product is not tied to a specific country, so I am interested in running as e
 1) The first group includes the most cryptocurrency-loyal countries. Here there is usually a high competition in advertising auction => more expensive user cost and higher quality.
 2) In the second column are "undecided" countries, where there is no clear position on crypto or there are difficulties with public cryptocurrency payments.  Here mining users is cheaper than in the first group, but their quality is also significant.
 3) The third block includes countries where cryptocurrency is banned or severely restricted. I recommend excluding these countries from advertising targeting, because there is a very low percentage of people who use cryptocurrency. At the same time, you can collect a large amount of traffic on the topic of crypto here.
+
 In each group, countries are filtered in descending order of GDP (nominal):
 
 
