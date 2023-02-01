@@ -11,12 +11,8 @@
             "id": "c7f275045b2b2698",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/Marketing strategy for SAAS in 2022/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Marketing strategy for SAAS in 2022/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/Marketing strategy for SAAS in 2022/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "post/Marketing strategy for SAAS in 2022/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7f275045b2b2698",
+  "active": "185bd048559fae0b",
   "lastOpenFiles": [
+    "post/Marketing strategy for SAAS in 2022/Календарь2022.jpg",
+    "post/Insights/index.md",
+    "post/7 Insights from working in Digital Ads at customer side after working at an agency/index.md",
+    "post/Marketing strategy for SAAS in 2022/index.md",
+    "Календарь.md",
+    "post/Marketing strategy for SAAS in 2022/funnel.jpg",
     "readme/index.md"
   ]
 }
