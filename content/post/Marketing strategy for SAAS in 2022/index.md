@@ -32,7 +32,7 @@ In this article, we will look at the preferred opportunities for external market
 ![](funnel.jpg)
 1️⃣ **Awareness**
 - **PR**
-    - Conference: joint presentations with clients about cases
+    - Conference: joint presen tations with clients about cases
     - Collaboration - upselling with another martech product (for example, mailing automation, advertising automation, CRM)
     - Hold a joint analytics conference with competitors
     - Publication in trade journals and research
